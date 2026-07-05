@@ -203,9 +203,43 @@ Project Folder
 └── README.md
 ```
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Screenshots
+
+### Main Interactive Dashboard
 
 ![Dashboard Preview](dashboard.png)
+
+---
+
+### 1️⃣ Average Income by Gender vs Bike Purchase
+
+This chart compares the average income of male and female customers based on whether they purchased a bike.
+
+![Average Income by Gender](avg-income-by-gender-chart.png)
+
+---
+
+### 2️⃣ Customer Count by Marital Status vs Bike Purchase
+
+This visualization shows how bike purchases vary between married and single customers.
+
+![Marital Status vs Purchase](marital-status-vs-purchase-chart.png)
+
+---
+
+### 3️⃣ Regional Purchase Distribution
+
+This chart highlights customer distribution and bike purchase behavior across different regions.
+
+![Region vs Purchase](region-vs-purchase-chart.png)
+
+---
+
+### 4️⃣ Customer Count by Age Bracket vs Bike Purchase
+
+This visualization compares bike purchase outcomes across different age groups.
+
+![Age Bracket vs Purchase](age-bracket-vs-purchase-chart.png)
 
 ---
 
