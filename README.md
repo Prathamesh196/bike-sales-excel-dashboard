@@ -193,9 +193,7 @@ Using **Report Connections**, each slicer controls all PivotTables simultaneousl
 
 ---
 
-## 📸 Dashboard Preview
 
-> Add your dashboard screenshot below.
 
 ```text
 Project Folder
