@@ -206,7 +206,7 @@ Project Folder
 Example:
 
 ```markdown
-![Dashboard Preview](Dashboard%20Screenshot.png)
+![Dashboard Preview](dashboard.png)
 ```
 
 ---
