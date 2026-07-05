@@ -203,11 +203,9 @@ Project Folder
 └── README.md
 ```
 
-Example:
+## 📸 Dashboard Preview
 
-```markdown
 ![Dashboard Preview](dashboard.png)
-```
 
 ---
 
